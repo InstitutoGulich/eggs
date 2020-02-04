@@ -9,4 +9,6 @@ Repositorio con la app escrita por Charles Beumier a partir de un código origin
 ## Instalación y ejecución
 1. Descargar los archivos setup.sh y app.sh
 2. Ejecutar en primer término el archivo setup.sh. Observar que al finalizar solicita cerrar sesión y volver a logearse. Este paso. Esto debe hacerse por única vez.
-3. Ejecutar app.sh
+3. Ejecutar app.sh. Una vez corriendo, acceder al help con la tecla H para más instrucciones.
+
+COMPLETAR.......
