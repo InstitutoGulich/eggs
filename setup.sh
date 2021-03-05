@@ -25,5 +25,5 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 sudo usermod -aG docker $USER
 
 echo
-echo "Debe cerrar sesión y colverse a loguear"
+echo "Debe cerrar sesión y volverse a loguear"
 echo
